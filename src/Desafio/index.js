@@ -72,5 +72,5 @@ app.post("/explorers/:id/stacks", validateExplorerId, (req, res) => {
 });
 
 app.listen(3338, () => {
-  console.log("Server OK!");
+  console.log("Server OK!!!");
 });
